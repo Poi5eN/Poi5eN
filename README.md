@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there👋, I'm Gourav Kumar Upadhyay
+
+A Software Engineer/Full Stack Software Developer
+
+- 🔭 I’m currently working on MERN Stack
+- 🌱 I’m currently learning Software Development
+- 👯 I’m looking to collaborate on Full Stack Development
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about React, Nodejs, JavaScript, MongoDB, ExpressJS
+- 📫 How to reach me: poi5en.here@gmail.com
+- 👨‍💻 All of my projects are available at https://github.com/Poi5eN
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: The first computer bug was an actual insect! 🐛 #TechHistory
 
 <!--
 **Poi5eN/Poi5eN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
