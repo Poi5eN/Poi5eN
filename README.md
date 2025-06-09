@@ -55,7 +55,7 @@ Here’s the arsenal I use to conquer code challenges:
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xmdjd2eGxyMHFkNmR1eG5vN2R0Z3ZhM3A1aW1uN3U2eDJkbzZ5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fAnzw6YK33jMwzp5wp/giphy.gif" alt="Demon Slayer Zenitsu GIF" width="350"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamEzeDB4MzBtZjFkdzRxdmxjOXpvcmJ0Z2NqdjU5YzlkOXBrNnAzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rpVYcs1rWB6bFIsdCb/giphy.gif" alt="Demon Slayer Zenitsu GIF" width="350"/>
 </p>
 
 ---
