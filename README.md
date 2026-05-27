@@ -1,215 +1,290 @@
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZjaTFqMGRmMmx3MTlqZGs0bzRybzZrYndjemlmMTNpOGI3cXhyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif" alt="Demon Slayer Tanjiro Fighting GIF" width="200"/>
-</p>
+<div align="center">
 
-<h1 align="center">Yo, I’m Gourav Kumar Upadhyay! 👨‍💻⚔️</h1>
-<p align="center">
-  <em>Full Stack Developer | MERN Stack Slayer | Turning Bugs into Features with Coffee & Code ☕</em>
-</p>
-<p align="center">
-  <a href="https://github.com/Poi5eN"><img src="https://img.shields.io/badge/GitHub-Follow-blue?style=flat-square&logo=github"/></a>
-  <a href="mailto:gaurav.upadhyay.vasudeva@gmail.com"><img src="https://img.shields.io/badge/Email-gaurav.upadhyay.vasudeva@gmail.com-red?style=flat-square&logo=gmail"/></a>
-  <a href="https://www.linkedin.com/in/gourav-kumar-upadhyay-0731b41b4"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/></a>
-  <a href="https://itsgauravhere.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=netlify"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Poi5eN&color=brightgreen" alt="Profile views"/>
-</p>
+<!-- TYPING HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=FF6F61&center=true&vCenter=true&width=850&lines=Yo%2C+I%27m+Gourav+Kumar+Upadhyay!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%E2%9A%94%EF%B8%8F;Full+Stack+%26+AI+Engineer+%7C+3%2B+Years+%F0%9F%94%A5;NEXUS+%E2%80%94+Agentic+AI+Platform+%40+saarlabs.in;ReAct+Loops+%7C+RAG+%7C+LLM+Orchestration;Turning+Bugs+into+Features+with+Coffee+%26+Code+%E2%98%95" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&color=%23FF6F61&center=true&vCenter=true&lines=Full+Stack+Wizard;React+%7C+Node.js+%7C+MongoDB;Demon+Slayer+Stan+%F0%9F%94%A5;Code+Like+a+Hashira" alt="Typing SVG"/>
-</p>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZjaTFqMGRmMmx3MTlqZGs0bzRybzZrYndjemlmMTNpOGI3cXhyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2xu5zpSV3oqKcCSZ49/giphy.gif" width="180" alt="Tanjiro Fighting"/>
 
----
+<br/>
 
-### 🚀 My Epic Coding Quest
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=netlify&logoColor=white)](https://itsgauravhere.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Poi5eN-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Poi5eN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-kumar-upadhyay-0731b41b4)
+[![Email](https://img.shields.io/badge/Email-Write_to_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gourav.upadhyay.vasudeva@gmail.com)
+[![NEXUS](https://img.shields.io/badge/🤖_NEXUS-saarlabs.in-8B5CF6?style=for-the-badge)](https://saarlabs.in/)
 
-Welcome to my digital dojo, where I, **Gourav Kumar Upadhyay**, wield the **MERN Stack** like Tanjiro’s Nichirin Blade to slay bugs and build awesome web apps! Based in New Delhi, I’m a **Full Stack Developer** who crafts scalable, user-friendly solutions with **React**, **Node.js**, **Express**, and **MongoDB**. When I’m not coding, I’m either binging **Demon Slayer**, sipping chai, or laughing at my own code’s “undefined” errors.
+<br/>
 
-> **Bug-Slaying Tale**: I once hunted a bug for 4 hours, only to discover a missing comma was the true demon. Moral: Always respect the comma, or it’ll haunt your dreams! 😜
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Poi5eN.Poi5eN&left_color=gray&right_color=FF6F61&left_text=Visitors)
+![Profile Views](https://komarev.com/ghpvc/?username=Poi5eN&color=FF6F61&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
 
-### 🛠️ My Tech Katana Collection
+## ⚔️ My Epic Coding Quest
 
-Here’s the arsenal I use to conquer code challenges:
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamEzeDB4MzBtZjFkdzRxdmxjOXpvcmJ0Z2NqdjU5YzlkOXBrNnAzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rpVYcs1rWB6bFIsdCb/giphy.gif" width="220" alt="Zenitsu"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-</p>
+Welcome to my **digital dojo**, where I wield the **MERN Stack & AI** like Tanjiro's Nichirin Blade to slay bugs and ship awesome products! 🗡️
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
+Based in **New Delhi 🇮🇳**, I'm a **Full Stack & AI Engineer** with **3+ years** of building enterprise platforms, agentic AI systems, and cloud-native apps.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,redux,prisma,supabase,firebase,postgres,redis" alt="More Tools"/>
-</p>
+- 🔭 **Currently building** at **India Accelerator** — AI-powered enterprise platforms
+- 🤖 **Flagship**: [NEXUS](https://saarlabs.in/) — Multi-persona agentic AI with ReAct loops, RAG, SSE
+- 🌱 **Leveling up**: Rust, Advanced PyTorch, MCP Protocol
+- 👯 **Open to**: Agentic AI collabs, open-source, hackathons
+- 💬 **Ask me about**: React, WebSockets, LLM orchestration, RAG pipelines
+- 📍 **HQ**: New Delhi, India
+- ⚡ **Fun fact**: I named a variable `finalAnswer` and changed it 17 times 😂
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamEzeDB4MzBtZjFkdzRxdmxjOXpvcmJ0Z2NqdjU5YzlkOXBrNnAzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rpVYcs1rWB6bFIsdCb/giphy.gif" alt="Demon Slayer Zenitsu GIF" width="350"/>
-</p>
+> **Bug-Slaying Tale**: Once hunted a bug for 4 hours — it was a missing comma. Moral: Always respect the comma, or it'll haunt your dreams! 😜
+
+<br clear="right"/>
 
 ---
 
-### 🌟 Current Mission Log
+## 🚀 Flagship — NEXUS Agentic AI Platform
 
-- 🔭 **Building**: High-performance web apps that load faster than Zenitsu’s Thunderclap and Flash.
-- 🌱 **Leveling Up**: Mastering **TypeScript**, **GraphQL**, and **DevOps** to become a Full Stack Hashira.
-- 👯 **Team-Ups**: Ready to collaborate on open-source or hackathons. Let’s code like the Demon Slayer Corps!
-- 💬 **Chat About**: React hooks, WebSockets, or why Inosuke is the ultimate chaos coder.
-- ⚡ **LOL Moment**: I once named a variable `finalAnswer` and changed it 17 times. Final? More like *beta*! 😂
-- 📍 **HQ**: New Delhi, India, where code and chai fuel my soul.
+<div align="center">
 
----
+[![NEXUS Live](https://img.shields.io/badge/🤖_NEXUS_Platform-Live_at_saarlabs.in-8B5CF6?style=for-the-badge)](https://saarlabs.in/)
 
-### 🏆 My Demon-Slaying Resume
+</div>
 
-#### **DoubleKlick Designs** | Full Stack Developer  
-*Okhla Phase-I, New Delhi | Dec 2024 – Present*  
-- Delivered **4+ client projects** with **Next.js**, **NestJS**, and **AWS S3**, boosting performance by **20%**.  
-- Mastered **Prisma** and **Mongoose** to tame wild databases.  
-- Crafted UIs so sleek, even Muzan would give a nod of approval. 😎  
+> **NEXUS** is a production multi-agent AI platform with a custom **ReAct reasoning loop**, **SSE streaming**, **sandboxed code execution** (Bun.spawn), and **10 specialized agents**. It integrates RAG via **Supabase pgvector**, real-time web grounding via **Tavily**, image synthesis via **HuggingFace FLUX**, and resilient LLM rotation across **Gemini / DeepSeek / Llama** via **OpenRouter**.
 
-#### **Corplyx Technologies Pvt. Ltd.** | Software Engineer  
-*Sector-62, Noida | Jun 2023 – Nov 2024*  
-- Led a team to build scalable apps, cutting **load times by 30%** and **release cycles by 25%**.  
-- Designed **ReactJS** interfaces with **Tailwind** that were smoother than Giyu’s Water Breathing.  
-- Integrated **REST APIs** and **Nodemailer** for seamless data flow.  
-
-#### **Infotech Software Solutions** | Software Developer  
-*Sector-10, Noida | Sep 2022 – Jun 2023*  
-- Turned requirements into robust solutions, improving **response times by 15%**.  
-- Battled **MySQL**, **Dotnet**, and **MongoDB** to deliver bulletproof backends.  
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFwYTc5bWhzMmNtbHprbDNscDM1MGgxYnNiaW45eTFrOTF6OXpycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MCZ39lz83o5lC/giphy.gif" alt="Demon Slayer Team GIF" width="300"/>
-</p>
+| Feature | Details |
+|:---|:---|
+| 🔁 Architecture | Custom ReAct loop with multi-step reasoning |
+| 📡 Streaming | Server-Sent Events (SSE) real-time output |
+| 🧱 Backend | Bun.js + Hono (ultra-fast edge runtime) |
+| 🗄️ RAG | Supabase pgvector semantic embeddings |
+| 🌐 Web Grounding | Tavily real-time search |
+| 🎨 Image Gen | HuggingFace FLUX synthesis |
+| 🔄 LLM Rotation | Gemini / DeepSeek / Llama via OpenRouter |
+| 🤖 Agents | 10 specialized agents with distinct personas |
+| 🐚 Sandbox | Isolated code execution via Bun.spawn |
 
 ---
 
-### 📊 My GitHub Battle Stats
+## 💼 Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Poi5eN&show_icons=true&theme=dracula" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poi5eN&layout=compact&theme=dracula" alt="Top Languages"/>
-</p>
+<details open>
+<summary><b>🏢 India Accelerator — Full Stack Developer &nbsp;|&nbsp; Jul 2025 – Present</b></summary>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Poi5eN&theme=dracula" alt="GitHub Streak"/>
-</p>
+> Sector 28, Gurugram
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Poi5eN&theme=dracula&margin-w=15" alt="Trophies"/>
-</p>
+- 🏗️ Architected enterprise platforms (vehicle claims, legal-tech APIs, coworking automation) using **NestJS**, **Next.js**, **PostgreSQL**, **Redis**, **GCP**, TurboRepo monorepo
+- 🔍 Integrated **OpenAI Vision API** for real-time AI-powered damage detection — cut manual claim time by **40%**
+- ⚙️ Deployed approval engines, operational automations, and Wi-Fi provisioning systems across enterprise clients
 
----
+</details>
 
-### 🗡️ Epic Projects I’ve Slayed
+<details>
+<summary><b>🏢 DoubleKlick Designs — Full Stack Developer &nbsp;|&nbsp; Dec 2024 – Jul 2025</b></summary>
 
-Check out my proudest battles:
+> Okhla Phase-I, New Delhi
 
-- **[RukiyeZara](https://www.rukiyezara.com/)** | *Next.js, TypeScript, Supabase, Material UI, ShadCN, Refine*  
-  A property booking app so fast, it outruns Zenitsu! Reduced load times by **20%** with **Refine.dev**.  
-  [Live Demo](https://www.rukiyezara.com/) | [Repo](https://github.com/Poi5eN/rukiyezara)
+- 🛠️ Delivered production REST APIs using **Next.js**, **NestJS**, **Prisma ORM**, **MongoDB**, and **AWS**
+- ⚡ Unified multiple challan provider APIs into a **Redis-cached** gateway — response time from **10+ min → under 3 sec** for **10k+ monthly requests**
+- 🚀 Built **CI/CD pipelines** on AWS (EC2, S3, Lambda), cutting deployment errors by **25%**
 
-- **[Digital Vidya Saarthi](https://digitalvidyasaarthi.in/)** | *MERN, Cloudinary, REST APIs, WebSockets, Redux*  
-  A school management system as organized as Shinobu’s poison lab.  
-  [Live Demo](https://digitalvidyasaarthi.in/) | [Repo](https://github.com/Poi5eN/digital-vidya-saarthi)
+</details>
 
-- **[Erthpot](https://erthpot.com/)** | *React, Node.js, MongoDB, Nodemailer, JWT, Tailwind*  
-  A vibrant platform for a brand’s online presence, as flashy as Tengen Uzui.  
-  [Live Demo](https://erthpot.com/) | [Repo](https://github.com/Poi5eN/erthpot)
+<details>
+<summary><b>🏢 Corplyx Technologies — Software Engineer &nbsp;|&nbsp; Jun 2023 – Nov 2024</b></summary>
 
-- **[Bhraman Together](https://bhramanfront.dkddev.com/)** | *Next.js, Google Maps, NestJS, Geospatial Queries*  
-  A travel app with mapping so precise, it’s like Giyu’s Water Breathing forms.  
-  [Live Demo](https://bhramanfront.dkddev.com/) | [Repo](https://github.com/Poi5eN/bhraman-together)
+> Sector-62, Noida
 
-👉 *Explore my full arsenal at [github.com/Poi5eN](https://github.com/Poi5eN)!*
+- 📉 Achieved **30% reduction in page load times** across core modules
+- ⚛️ Built React.js + Redux frontends + Node.js/Express/MongoDB backends for high-throughput workflows
 
----
+</details>
 
-### 🎓 My Training Academy
+<details>
+<summary><b>🏢 Infotech Software Solutions — Software Developer &nbsp;|&nbsp; Sep 2022 – Jun 2023</b></summary>
 
-- **Bachelor of Technology** | Greater Noida Institute of Technology  
-  *July 2018 – June 2022 | 68%*  
-  Where I forged my coding skills in the fires of late-night assignments.
+> Sector-10, Noida
 
-- **Certifications**:  
-  - 🏅 [Responsive Web Design](https://www.freecodecamp.org/certification/Poi5eN/responsive-web-design) | FreeCodeCamp  
-  - More badges incoming, because a slayer never stops training!
+- 🔧 Developed backend microservices, frontend components, DB workflows — improved response times by **15%**
+
+</details>
 
 ---
 
-### 🧠 Skills & Superpowers
+## 🗡️ Projects I've Slayed
 
-#### **Tech Skills**
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-Intermediate-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
+<div align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFwYTc5bWhzMmNtbHprbDNscDM1MGgxYnNiaW45eTFrOTF6OXpycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MCZ39lz83o5lC/giphy.gif" width="260" alt="Demon Slayer Team"/>
+</div>
 
-#### **Soft Skills**
-<p align="center">
-  <img src="https://img.shields.io/badge/Problem_Solving-%E2%9C%85-brightgreen?style=flat-square" alt="Problem Solving"/>
-  <img src="https://img.shields.io/badge/Leadership-%E2%9C%85-blue?style=flat-square" alt="Leadership"/>
-  <img src="https://img.shields.io/badge/English-Fluent-green?style=flat-square" alt="English"/>
-  <img src="https://img.shields.io/badge/Portuguese-Learning-orange?style=flat-square" alt="Portuguese"/>
-  <img src="https://img.shields.io/badge/Spanish-Learning-orange?style=flat-square" alt="Spanish"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lmdDVvYnhmNnh4eWZhYjd3M2NscDJrczR5enExa2V0YzZhZm1zZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRrSvJUa0crqw4E/giphy.gif" alt="Demon Slayer Inosuke GIF" width="300"/>
-</p>
+| Project | Stack | Impact |
+|:---|:---|:---|
+| 🤖 [**NEXUS — Saar AI**](https://saarlabs.in/) | Bun.js, Hono, React, OpenRouter, pgvector | Multi-persona agentic AI, 10 agents, ReAct loop, RAG, SSE |
+| 🚗 [**Paramount**](https://sage.paramountservices.co.in/) | Next.js, NestJS, PostgreSQL, OpenAI Vision | AI vehicle claims — 40% faster damage assessment |
+| ✈️ [**Bhraman Together**](https://www.bhramantogether.com/) | NestJS, Next.js, MongoDB, AWS, Google Maps | Travel platform — geospatial search, cab booking, route planning |
+| ⚖️ [**Lawyered — ChallanPay**](https://lawyered.in/) | Node.js, Prisma, PostgreSQL, Redis | Legal-tech gateway — 10 min → 3 sec response time |
+| 🏢 [**IA Spaces Coworking**](https://iaspaces.co/) | NestJS, Next.js, PostgreSQL | Wi-Fi automation, seat booking, enterprise approvals |
+| 🏫 [**Digital Vidya Saarthi**](https://www.digitalvidyasaarthi.in/) | MERN Stack, Redux | School management — attendance, enrollment, comms |
+| 🏠 [**RukiyeZara**](https://www.rukiyezara.com/) | Next.js, TypeScript, Supabase | Property booking — sub-2s load times |
 
 ---
 
-### 🏅 Why Hire This Code Slayer?
+## 🛠️ Tech Katana Collection
 
-- **Proven Impact**: Delivered **4+ client projects** with **20% faster performance** and led teams to cut **release cycles by 25%**.  
-- **Tech Versatility**: Fluent in **MERN**, **Next.js**, **NestJS**, and cloud tools like **AWS** and **Supabase**.  
-- **Problem Solver**: Tackle challenges with the tenacity of Tanjiro and the creativity of Nezuko’s Blood Demon Art.  
-- **Team Player**: Collaborate like the Demon Slayer Corps, bringing leadership and communication to every mission.  
-- **Passion for Growth**: Constantly learning (**TypeScript**, **GraphQL**) to stay sharper than a Nichirin Blade.
+<div align="center">
+
+### Core Languages
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python,rust,cpp,graphql&perline=6)](https://skillicons.dev)
+
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,materialui,vite&perline=6)](https://skillicons.dev)
+
+### Backend & Runtime
+[![My Skills](https://skillicons.dev/icons?i=nodejs,bun,nestjs,express,redis,nginx&perline=6)](https://skillicons.dev)
+
+### AI / ML & Databases
+[![My Skills](https://skillicons.dev/icons?i=pytorch,postgres,mongodb,sqlite,supabase,firebase&perline=6)](https://skillicons.dev)
+
+### Cloud & DevOps
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,vercel,git&perline=6)](https://skillicons.dev)
+
+</div>
+
+<div align="center">
+
+**Additional Arsenal:**
+
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9D00?style=flat-square&logo=huggingface&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-7C3AED?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Tavily](https://img.shields.io/badge/Tavily-00B4D8?style=flat-square)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=flat-square&logo=redis&logoColor=white)
+![TurboRepo](https://img.shields.io/badge/TurboRepo-000000?style=flat-square&logo=turborepo&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-FF6B35?style=flat-square&logo=react&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</div>
 
 ---
 
-### 📬 Recruit Me to Your Corps!
+## 📊 GitHub Battle Stats
 
-Got a project that needs a Full Stack Hashira? Let’s build something epic!
+<div align="center">
 
-<p align="center">
-  <a href="mailto:gaurav.upadhyay.vasudeva@gmail.com"><img src="https://img.shields.io/badge/Email-gaurav.upadhyay.vasudeva@gmail.com-red?style=flat-square&logo=gmail"/></a>
-  <a href="https://www.linkedin.com/in/gourav-kumar-upadhyay-0731b41b4"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/></a>
-  <a href="https://itsgauravhere.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=netlify"/></a>
-</p>
+<!-- STREAK — demolab.com, most reliable streak service, renders on GitHub camo -->
+<img src="https://streak-stats.demolab.com?user=Poi5eN&theme=dracula&hide_border=true&card_width=700" alt="GitHub Streak" width="700"/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRocXNrajF3bGRrOTlzeDdqOG92eHM2ODA0cmFyczM1cTB2a3JleCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Gjoz5izVy7gSA/giphy.gif" alt="Demon Slayer Connect GIF" width="300"/>
-</p>
+</div>
+
+<div align="center">
+
+<!-- SHIELDS.IO STAT BADGES — 100% reliable, GitHub-native API, always renders -->
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPoi5eN&query=%24.public_repos&label=Public%20Repos&color=8B5CF6&style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/Poi5eN?label=Followers&style=for-the-badge&color=FF6F61&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/Poi5eN?label=Total%20Stars&style=for-the-badge&color=FFD700&logo=github&logoColor=black&affiliations=OWNER)
+![Account Age](https://img.shields.io/badge/GitHub%20Since-2022-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+<div align="center">
+
+<!-- ✅ STAT DETAILS — shields.io dynamic JSON from GitHub API, always renders -->
+
+**📦 Repositories & Activity**
+
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPoi5eN&query=%24.public_repos&label=Public%20Repos&color=6E40C9&style=for-the-badge&logo=github&logoColor=white)
+![Gists](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPoi5eN&query=%24.public_gists&label=Public%20Gists&color=8B5CF6&style=for-the-badge&logo=github&logoColor=white)
+![Following](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPoi5eN&query=%24.following&label=Following&color=A78BFA&style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/Poi5eN?label=Followers&style=for-the-badge&color=FF6F61&logo=github&logoColor=white)
+
+**🏆 Achievements**
+
+![Stars](https://img.shields.io/github/stars/Poi5eN?label=Total%20Stars&style=for-the-badge&color=FFD700&logo=github&logoColor=black&affiliations=OWNER)
+![GitHub Since](https://img.shields.io/badge/On%20GitHub%20Since-Aug%202022-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions-1%2C616%2B-FF6F61?style=for-the-badge&logo=github&logoColor=white)
+![Longest Streak](https://img.shields.io/badge/Longest%20Streak-25%20Days-orange?style=for-the-badge&logo=fire&logoColor=white)
+
+**💻 Primary Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-Primary-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Core-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-AI%2FML-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Learning-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+</div>
 
 ---
 
-### 💭 My Coding Mantra
+## 🐍 Contribution Activity
 
-> *“When you’re stuck, take a deep breath, channel your inner Tanjiro, and refactor!”* – Gourav
+<div align="center">
 
-Coding is my Breathing Technique: it’s about precision, creativity, and a dash of chaos (thanks, Inosuke!). Whether I’m optimizing a **NestJS** backend or styling a **Tailwind** UI, I aim to build solutions that are as reliable as Rengoku’s resolve and as elegant as Mitsuri’s moves.
+<!-- ACTIVITY GRAPH — vercel.app service but different from readme-stats, generally more reliable -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Poi5eN&theme=dracula&hide_border=true&area=true&area_color=8B5CF6" width="100%" alt="Contribution Activity Graph"/>
 
-<p align="center">
-  <em>“Code is poetry, bugs are plot twists, and I’m the author who never gives up.”</em>
-</p>
+</div>
 
-<p align="center">
-  Thanks for visiting my dojo! Keep coding, keep laughing, and may your pull requests always merge smoothly! 🐞⚔️
-</p>
+---
+
+## 🎓 Training Academy
+
+**🏛️ Bachelor of Technology, Computer Science**
+Greater Noida Institute of Technology · `Jul 2018 – Jun 2022`
+
+### Certifications
+| Certification | Issuer | Link |
+|:---|:---|:---|
+| 🏅 Software Engineering | FreeCodeCamp | [View](https://freecodecamp.org/certification/poi5en/responsive-web-design) |
+| 📊 Data Science / ML | Kaggle | [View](https://www.kaggle.com/learn/certification/poi5en/intro-to-machine-learning) |
+| 🤖 The AI Engineer Path | Scrimba | [View](https://scrimba.com/@Poi5eN:certs;cert24zAwJ77fGRrQpDhLX2CWRiqLcRZxWwi6Jn34) |
+
+---
+
+## 🧠 Why Hire This Code Slayer?
+
+<div align="center">
+
+| 💡 Proven Impact | 🔧 Tech Versatility | 🤝 Team Player | 🚀 Always Learning |
+|:---:|:---:|:---:|:---:|
+| 4+ client projects, 20% faster performance, 40% faster claims processing | MERN, Next.js, NestJS, AWS, GCP, Bun.js, Hono | Led teams, cut release cycles by 25% | Rust, PyTorch, MCP — never stops leveling up |
+
+</div>
+
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3lmdDVvYnhmNnh4eWZhYjd3M2NscDJrczR5enExa2V0YzZhZm1zZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRrSvJUa0crqw4E/giphy.gif" width="260" alt="Inosuke"/>
+</div>
+
+---
+
+## 📬 Recruit Me to Your Corps!
+
+<div align="center">
+
+> *"When you're stuck, take a deep breath, channel your inner Tanjiro, and refactor!"* — Gourav
+
+> *"Code is poetry, bugs are plot twists, and I'm the author who never gives up."*
+
+<br/>
+
+[![Email](https://img.shields.io/badge/gourav.upadhyay.vasudeva%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gourav.upadhyay.vasudeva@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-kumar-upadhyay-0731b41b4)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-7C3AED?style=for-the-badge&logo=netlify&logoColor=white)](https://itsgauravhere.netlify.app/)
+[![NEXUS](https://img.shields.io/badge/Try_NEXUS_AI-8B5CF6?style=for-the-badge)](https://saarlabs.in/)
+
+<br/>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRocXNrajF3bGRrOTlzeDdqOG92eHM2ODA0cmFyczM1cTB2a3JleCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Gjoz5izVy7gSA/giphy.gif" width="260" alt="Demon Slayer Connect"/>
+
+<br/>
+
+*Thanks for visiting my dojo! May your PRs always merge and your bugs be few!* 🐞⚔️
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=FF6F61&center=true&vCenter=true&width=500&lines=Keep+Coding+%7C+Keep+Slaying+%7C+Never+Give+Up+%E2%9A%94%EF%B8%8F" alt="Footer typing"/>
+
+</div>
